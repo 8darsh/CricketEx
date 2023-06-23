@@ -1,0 +1,14 @@
+{
+    "name": "CricketEx",
+    "version": "1.0.0",
+    "description": "Cricket Stats",
+    "manifest_version": 3,
+    "author": "Adarsh Singh",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "CricketEx"
+    },
+    "icons":{
+        "128":"logo.png"
+    }
+}
